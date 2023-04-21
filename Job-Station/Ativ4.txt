@@ -1,0 +1,20 @@
+Dois veículos (um carro e um caminhão) saem respectivamente de cidades opostas pela mesma rodovia. 
+O carro de Ribeirão Preto em direção a Franca, a uma velocidade constante de 110 km/h e o caminhão de Franca em direção a Ribeirão Preto a uma velocidade constante de 80 km/h. 
+Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?  
+
+O carro percorre uma distância de 100 km a uma velocidade de 110 km/h, o que leva aproximadamente 0,91 horas (ou 54,5 minutos). Como o caminhão leva 5 minutos a mais para passar em cada um dos dois pedágios, podemos considerar que ele leva um total de 10 minutos (ou 0,17 horas) a mais para percorrer a mesma distância. Portanto, o caminhão leva aproximadamente 1,08 horas (ou 64,8 minutos) para percorrer a distância entre as duas cidades.
+
+Quando os dois veículos se encontram na rodovia, eles percorreram juntos uma distância igual à soma das distâncias que cada um percorreu até o ponto de encontro. 
+Essa distância é igual a:
+
+100 km + 100 km = 200 km
+
+A partir desse ponto, o carro ainda precisa percorrer uma distância de:
+
+100 km - 100 km = 0 km
+
+Enquanto o caminhão ainda precisa percorrer uma distância de:
+
+100 km - 0 km = 100 km
+
+Portanto, quando os dois veículos se encontram na rodovia, o carro está mais próximo da cidade de Ribeirão Preto.
